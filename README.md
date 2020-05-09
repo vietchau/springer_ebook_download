@@ -3,5 +3,6 @@ The file are saved into ebook/[catergory]/[title].pdf
 
 
 
-*** Usage : ***
-python get_springer_ebook.py
+### Usage : ### 
+
+bash$ python get_springer_ebook.py
